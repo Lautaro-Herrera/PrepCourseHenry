@@ -1,2 +1,3 @@
-# PrepCourseHenry
-repositorio de prueba del modulo 2
+Lautaro Herrera
+
+Proyecto de como crear un repositorio y clonarlo desde git hub a mi PC
